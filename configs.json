@@ -1,78 +1,74 @@
 [
   {
-    "category": "FPS ANTI LAG CONFIG",
+    "category": "FPS ANTI LAG CONFIG (Mobile Legends)",
     "items": [
       {
-        "id": "fps1",
+        "id": "mlbb_fps1",
         "title": "FPS ANTI LAG v1",
         "description": "Low-end devices",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip"
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
+        "installType": "mlbb"
       },
       {
-        "id": "fps2",
+        "id": "mlbb_fps2",
         "title": "FPS ANTI LAG v2",
-        "description": "Balanceds",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip"
+        "description": "Balanced",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
+        "installType": "mlbb"
       },
       {
-        "id": "fps3",
+        "id": "mlbb_fps2",
+        "title": "FPS ANTI LAG v2",
+        "description": "Balanced",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
+        "installType": "mlbb"
+      },
+      {
+        "id": "mlbb_fps3",
         "title": "FPS ANTI LAG v3",
         "description": "High performance",
-        "url": "https://example.com/fps3.zip"
-      },
-      {
-        "id": "fps4",
-        "title": "FPS ANTI LAG v4",
-        "description": "Extreme",
-        "url": "https://example.com/fps4.zip"
+        "url": "https://example.com/fps3.zip",
+        "installType": "mlbb"
       }
     ]
   },
 
   {
-    "category": "Background UI",
+    "category": "Background UI (Mobile Legends)",
     "items": [
       {
-        "id": "bg1",
+        "id": "mlbb_bg1",
         "title": "MLBB ORIGINAL BACKGROUND",
         "description": "Default UI",
-        "url": "https://example.com/bg1.zip"
+        "url": "https://example.com/bg1.zip",
+        "installType": "mlbb"
       },
       {
-        "id": "bg2",
+        "id": "mlbb_bg2",
         "title": "HU TAO INTERFACE",
         "description": "Anime UI",
-        "url": "https://example.com/bg2.zip"
-      },
-      {
-        "id": "bg3",
-        "title": "ITACHI INTERFACE",
-        "description": "Naruto theme",
-        "url": "https://example.com/bg3.zip"
+        "url": "https://example.com/bg2.zip",
+        "installType": "mlbb"
       }
     ]
   },
 
   {
-    "category": "Background Music",
+    "category": "FPS BOOST (Roblox)",
     "items": [
       {
-        "id": "music1",
-        "title": "ACELERADA",
-        "description": "Fast beat",
-        "url": "https://example.com/music1.zip"
+        "id": "roblox_fps1",
+        "title": "Roblox FPS Booster v1",
+        "description": "Extract to Downloads",
+        "url": "https://example.com/roblox_fps1.zip",
+        "installType": "roblox"
       },
       {
-        "id": "music2",
-        "title": "MONTAGEM-NAKAMA",
-        "description": "Anime remix",
-        "url": "https://example.com/music2.zip"
-      },
-      {
-        "id": "music3",
-        "title": "JUDAS FUNK",
-        "description": "Funk style",
-        "url": "https://example.com/music3.zip"
+        "id": "roblox_fps2",
+        "title": "Roblox FPS Booster v2",
+        "description": "High FPS preset",
+        "url": "https://example.com/roblox_fps2.zip",
+        "installType": "roblox"
       }
     ]
   }
