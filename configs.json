@@ -7,9 +7,9 @@
   },
   {
     "id": "spawnfix",
-    "title": "Fix Spawn Delay",
+    "title": "Testing",
     "description": "Instant respawn after death",
-    "url": "https://example.com/spawnfix.zip"
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
   },
   {
     "id": "fps120",
