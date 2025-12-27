@@ -1,20 +1,79 @@
 [
   {
-    "id": "antilag",
-    "title": "Config Anti Lag",
-    "description": "Reduce lag and stabilize gameplay",
-    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip"
+    "category": "FPS ANTI LAG CONFIG",
+    "items": [
+      {
+        "id": "fps1",
+        "title": "FPS ANTI LAG v1",
+        "description": "Low-end devices",
+        "url": "https://example.com/fps1.zip"
+      },
+      {
+        "id": "fps2",
+        "title": "FPS ANTI LAG v2",
+        "description": "Balanced",
+        "url": "https://example.com/fps2.zip"
+      },
+      {
+        "id": "fps3",
+        "title": "FPS ANTI LAG v3",
+        "description": "High performance",
+        "url": "https://example.com/fps3.zip"
+      },
+      {
+        "id": "fps4",
+        "title": "FPS ANTI LAG v4",
+        "description": "Extreme",
+        "url": "https://example.com/fps4.zip"
+      }
+    ]
   },
+
   {
-    "id": "spawnfix",
-    "title": "Testing",
-    "description": "updated 12-27-25",
-    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+    "category": "Background UI",
+    "items": [
+      {
+        "id": "bg1",
+        "title": "MLBB ORIGINAL BACKGROUND",
+        "description": "Default UI",
+        "url": "https://example.com/bg1.zip"
+      },
+      {
+        "id": "bg2",
+        "title": "HU TAO INTERFACE",
+        "description": "Anime UI",
+        "url": "https://example.com/bg2.zip"
+      },
+      {
+        "id": "bg3",
+        "title": "ITACHI INTERFACE",
+        "description": "Naruto theme",
+        "url": "https://example.com/bg3.zip"
+      }
+    ]
   },
+
   {
-    "id": "fps120",
-    "title": "Config 120 FPS",
-    "description": "Unlock 120 FPS gameplay",
-    "url": "https://example.com/120fps.zip"
+    "category": "Background Music",
+    "items": [
+      {
+        "id": "music1",
+        "title": "ACELERADA",
+        "description": "Fast beat",
+        "url": "https://example.com/music1.zip"
+      },
+      {
+        "id": "music2",
+        "title": "MONTAGEM-NAKAMA",
+        "description": "Anime remix",
+        "url": "https://example.com/music2.zip"
+      },
+      {
+        "id": "music3",
+        "title": "JUDAS FUNK",
+        "description": "Funk style",
+        "url": "https://example.com/music3.zip"
+      }
+    ]
   }
 ]
