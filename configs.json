@@ -10,7 +10,8 @@
         "installType": "mlbb",
         "key": "654321",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v1",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v1.png"
       },
       {
         "id": "mlbb_fps2",
@@ -20,7 +21,8 @@
         "installType": "mlbb",
         "key": "981238",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v2.png"
       },
       {
         "id": "mlbb_fps3",
@@ -30,7 +32,8 @@
         "installType": "mlbb",
         "key": "812393",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v3.png"
       }
     ]
   },
@@ -46,7 +49,8 @@
         "installType": "mlbb",
         "key": "445566",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg1",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
       },
       {
         "id": "mlbb_bg2",
@@ -56,7 +60,8 @@
         "installType": "mlbb",
         "key": "778899",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg2",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
       }
     ]
   },
@@ -72,7 +77,8 @@
         "installType": "roblox",
         "key": "555111",
         "getKeyUrl": "https://your-shortlink-ads.com/roblox-v1",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v1.png"
       },
       {
         "id": "roblox_fps2",
@@ -82,7 +88,8 @@
         "installType": "roblox",
         "key": "666222",
         "getKeyUrl": "https://your-shortlink-ads.com/roblox-v2",
-        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL"
+        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v2.png"
       }
     ]
   }
