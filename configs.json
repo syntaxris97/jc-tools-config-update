@@ -4,31 +4,33 @@
     "items": [
       {
         "id": "mlbb_fps1",
-        "title": "FPS ANTI LAG v11",
+        "title": "FPS ANTI LAG v1",
         "description": "Low-end devices",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
-        "installType": "mlbb"
+        "installType": "mlbb",
+        "key": "123456",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v1",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
       },
       {
         "id": "mlbb_fps2",
         "title": "FPS ANTI LAG v2",
-        "description": "Balanceds",
+        "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
-        "installType": "mlbb"
-      },
-      {
-        "id": "mlbb_fps2",
-        "title": "FPS ANTI LAG v2",
-        "description": "Balanced",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
-        "installType": "mlbb"
+        "installType": "mlbb",
+        "key": "981238",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
       },
       {
         "id": "mlbb_fps3",
         "title": "FPS ANTI LAG v3",
         "description": "High performance",
         "url": "https://example.com/fps3.zip",
-        "installType": "mlbb"
+        "installType": "mlbb",
+        "key": "812393",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL"
       }
     ]
   },
@@ -41,14 +43,20 @@
         "title": "MLBB ORIGINAL BACKGROUND",
         "description": "Default UI",
         "url": "https://example.com/bg1.zip",
-        "installType": "mlbb"
+        "installType": "mlbb",
+        "key": "445566",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg1",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL"
       },
       {
         "id": "mlbb_bg2",
         "title": "HU TAO INTERFACE",
         "description": "Anime UI",
         "url": "https://example.com/bg2.zip",
-        "installType": "mlbb"
+        "installType": "mlbb",
+        "key": "778899",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg2",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL"
       }
     ]
   },
@@ -61,14 +69,20 @@
         "title": "Roblox FPS Booster v1",
         "description": "Extract to Downloads",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
-        "installType": "roblox"
+        "installType": "roblox",
+        "key": "555111",
+        "getKeyUrl": "https://your-shortlink-ads.com/roblox-v1",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL"
       },
       {
         "id": "roblox_fps2",
         "title": "Roblox FPS Booster v2",
         "description": "High FPS preset",
         "url": "https://example.com/roblox_fps2.zip",
-        "installType": "roblox"
+        "installType": "roblox",
+        "key": "666222",
+        "getKeyUrl": "https://your-shortlink-ads.com/roblox-v2",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL"
       }
     ]
   }
