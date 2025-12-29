@@ -22,9 +22,9 @@
         "key": "981238",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v2.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
       },
-            {
+      {
         "id": "mlbb_fps2",
         "title": "FPS ANTI LAG v3",
         "description": "Balanced performance",
