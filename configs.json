@@ -204,6 +204,28 @@
         "imageUrl": "https://example.com/img/magic1.png"
       },
       {
+        "id": "magic_fps_1",
+        "title": "Magic Chess FPS Boost v1",
+        "description": "Smooth animations",
+        "url": "https://example.com/magic1.zip",
+        "installType": "magicchess",
+        "key": "121212",
+        "getKeyUrl": "https://shortlink.com/magic1",
+        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
+        "imageUrl": "https://example.com/img/magic1.png"
+      },
+      {
+        "id": "magic_fps_1",
+        "title": "Magic Chess FPS Boost v1",
+        "description": "Smooth animations",
+        "url": "https://example.com/magic1.zip",
+        "installType": "magicchess",
+        "key": "121212",
+        "getKeyUrl": "https://shortlink.com/magic1",
+        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
+        "imageUrl": "https://example.com/img/magic1.png"
+      },
+      {
         "id": "magic_fps_2",
         "title": "Magic Chess FPS Boost v2",
         "description": "Max performance",
