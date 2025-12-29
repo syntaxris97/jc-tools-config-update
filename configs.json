@@ -110,9 +110,9 @@
     "items": [
       {
         "id": "codm_fps_1",
-        "title": "CODM FPS Booster v1",
+        "title": "CODM FPS Booster v11",
         "description": "Smooth gameplay",
-        "url": "https://example.com/codm1.zip",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
         "installType": "codm",
         "key": "555555",
         "getKeyUrl": "https://shortlink.com/codm1",
