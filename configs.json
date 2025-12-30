@@ -48,7 +48,6 @@
       }
     ]
   },
-
   {
     "category": "Background UI (Mobile Legends)",
     "items": [
@@ -76,7 +75,6 @@
       }
     ]
   },
-
   {
     "category": "FPS BOOST (Roblox)",
     "items": [
@@ -100,7 +98,7 @@
         "versionId": "v223",
         "getKeyUrl": "https://shortlink.com/roblox2",
         "howToGetKeyUrl": "https://youtube.com/ROBLOX_KEY",
-        "imageUrl": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v1.png"
       }
     ]
   }
