@@ -8,7 +8,8 @@
         "description": "Low-end devices",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://jctools.gamer.gd/get_key.php?item=mlbb_fps_v111",
+        "versionId": "v111",
+        "getKeyUrl": "https://jctools.gamer.gd/get_key.php?v=v111",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
       },
@@ -18,7 +19,8 @@
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2?item=mlbb_fps_v22",
+        "versionId": "v22",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v22",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
       },
@@ -28,7 +30,8 @@
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3?item=mlbb_fps_v3",
+        "versionId": "v3",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v2.png"
       },
@@ -38,9 +41,38 @@
         "description": "High performance",
         "url": "https://example.com/fps3.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v4?item=mlbb_fps_v4",
+        "versionId": "v4",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v4",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v3.png"
+      }
+    ]
+  },
+
+  {
+    "category": "Background UI (Mobile Legends)",
+    "items": [
+      {
+        "id": "mlbb_bg_v1",
+        "title": "MLBB ORIGINAL BACKGROUND",
+        "description": "Default UI",
+        "url": "https://example.com/bg1.zip",
+        "installType": "mlbb",
+        "versionId": "bg_v1",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg1",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
+      },
+      {
+        "id": "mlbb_bg_v2",
+        "title": "HU TAO INTERFACE",
+        "description": "Anime UI",
+        "url": "https://example.com/bg2.zip",
+        "installType": "mlbb",
+        "versionId": "bg_v2",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg2",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
       }
     ]
   },
@@ -54,9 +86,21 @@
         "description": "Extract to Downloads",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "roblox",
-        "getKeyUrl": "https://your-shortlink-ads.com/roblox-v1?item=roblox_fps_v1",
+        "versionId": "v1",
+        "getKeyUrl": "https://your-shortlink-ads.com/roblox-v1",
         "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v1.png"
+      },
+      {
+        "id": "roblox_fps_v223",
+        "title": "Roblox FPS Booster v223",
+        "description": "Max FPS config",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
+        "installType": "roblox",
+        "versionId": "v223",
+        "getKeyUrl": "https://shortlink.com/roblox2",
+        "howToGetKeyUrl": "https://youtube.com/ROBLOX_KEY",
+        "imageUrl": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip"
       }
     ]
   }
