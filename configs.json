@@ -9,7 +9,7 @@
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "mlbb",
         "versionId": "v111",
-        "getKeyUrl": "https://jc-key-api2.jesraelabogado.workers.dev/get-key?versionId=v111",
+        "getKeyUrl": "https://jc-key-api2.jesraelabogado.workers.dev/get-key?deviceId=XXX&versionId=v111",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
       },
