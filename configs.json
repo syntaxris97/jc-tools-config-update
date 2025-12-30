@@ -8,7 +8,7 @@
         "description": "Low-end devices",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://jc-key-api2.jesraelabogado.workers.dev/get-key"",
+        "getKeyUrl": "https://jc-key-api2.jesraelabogado.workers.dev/get-key",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
       },
