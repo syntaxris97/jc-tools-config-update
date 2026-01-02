@@ -3,8 +3,8 @@
     "category": "FPS ANTI LAG CONFIG (Mobile Legends)",
     "items": [
       {
-        "id": "mlbb_fps1",
-        "title": "FPS ANTI LAG v111",
+        "id": "mlbb_fps_v111",
+        "title": "FPS ANTI LAG v1111",
         "description": "Low-end devices",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "mlbb",
@@ -13,35 +13,32 @@
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
       },
       {
-        "id": "mlbb_fps2",
+        "id": "mlbb_fps_v22",
         "title": "FPS ANTI LAG v22",
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
-        "key": "",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v22",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
       },
       {
-        "id": "mlbb_fps2",
+        "id": "mlbb_fps_v3",
         "title": "FPS ANTI LAG v3",
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
-        "key": "",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v2",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v2.png"
       },
       {
-        "id": "mlbb_fps3",
+        "id": "mlbb_fps_v4",
         "title": "FPS ANTI LAG v4",
         "description": "High performance",
-        "url": "https://example.com/fps3.zip",
+        "url": "https://example.com/fps4.zip",
         "installType": "mlbb",
-        "key": "812393",
-        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v3",
+        "getKeyUrl": "https://your-shortlink-ads.com/mlbb-v4",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v3.png"
       }
@@ -52,23 +49,21 @@
     "category": "Background UI (Mobile Legends)",
     "items": [
       {
-        "id": "mlbb_bg1",
+        "id": "mlbb_bg_original",
         "title": "MLBB ORIGINAL BACKGROUND",
         "description": "Default UI",
         "url": "https://example.com/bg1.zip",
         "installType": "mlbb",
-        "key": "445566",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg1",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
       },
       {
-        "id": "mlbb_bg2",
+        "id": "mlbb_bg_hutao",
         "title": "HU TAO INTERFACE",
         "description": "Anime UI",
         "url": "https://example.com/bg2.zip",
         "installType": "mlbb",
-        "key": "778899",
         "getKeyUrl": "https://your-shortlink-ads.com/mlbb-bg2",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
@@ -80,160 +75,24 @@
     "category": "FPS BOOST (Roblox)",
     "items": [
       {
-        "id": "roblox_fps1",
+        "id": "roblox_fps_v1",
         "title": "Roblox FPS Booster v1",
         "description": "Extract to Downloads",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "roblox",
-        "key": "",
         "getKeyUrl": "https://your-shortlink-ads.com/roblox-v1",
         "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v1.png"
       },
       {
-        "id": "roblox_fps_2",
+        "id": "roblox_fps_v223",
         "title": "Roblox FPS Booster v223",
         "description": "Max FPS config",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
         "installType": "roblox",
-        "key": "",
         "getKeyUrl": "https://shortlink.com/roblox2",
         "howToGetKeyUrl": "https://youtube.com/ROBLOX_KEY",
-        "imageUrl": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip"
-      }
-    ]
-  },
-
-  {
-    "category": "FPS ANTI LAG (Call of Duty Mobile)",
-    "items": [
-      {
-        "id": "codm_fps_1",
-        "title": "CODM FPS Booster v11",
-        "description": "Smooth gameplay",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
-        "installType": "codm",
-        "key": "555555",
-        "getKeyUrl": "https://shortlink.com/codm1",
-        "howToGetKeyUrl": "https://youtube.com/CODM_KEY",
-        "imageUrl": "https://example.com/img/codm1.png"
-      },
-      {
-        "id": "codm_fps_2",
-        "title": "CODM FPS Booster v2",
-        "description": "Ultra FPS",
-        "url": "https://example.com/codm2.zip",
-        "installType": "codm",
-        "key": "666666",
-        "getKeyUrl": "https://shortlink.com/codm2",
-        "howToGetKeyUrl": "https://youtube.com/CODM_KEY",
-        "imageUrl": "https://example.com/img/codm2.png"
-      }
-    ]
-  },
-
-  {
-    "category": "FPS ANTI LAG (CrossFire Legends)",
-    "items": [
-      {
-        "id": "crossfire_fps_1",
-        "title": "CrossFire FPS Boost v1",
-        "description": "Stability preset",
-        "url": "https://example.com/cf1.zip",
-        "installType": "crossfire",
-        "key": "777777",
-        "getKeyUrl": "https://shortlink.com/cf1",
-        "howToGetKeyUrl": "https://youtube.com/CROSSFIRE_KEY",
-        "imageUrl": "https://example.com/img/cf1.png"
-      },
-      {
-        "id": "crossfire_fps_2",
-        "title": "CrossFire FPS Boost v2",
-        "description": "High FPS mode",
-        "url": "https://example.com/cf2.zip",
-        "installType": "crossfire",
-        "key": "888888",
-        "getKeyUrl": "https://shortlink.com/cf2",
-        "howToGetKeyUrl": "https://youtube.com/CROSSFIRE_KEY",
-        "imageUrl": "https://example.com/img/cf2.png"
-      }
-    ]
-  },
-
-  {
-    "category": "FPS ANTI LAG (Honor of Kings)",
-    "items": [
-      {
-        "id": "hok_fps_1",
-        "title": "HOK FPS Booster v1",
-        "description": "Balanced preset",
-        "url": "https://example.com/hok1.zip",
-        "installType": "hok",
-        "key": "999999",
-        "getKeyUrl": "https://shortlink.com/hok1",
-        "howToGetKeyUrl": "https://youtube.com/HOK_KEY",
-        "imageUrl": "https://example.com/img/hok1.png"
-      },
-      {
-        "id": "hok_fps_2",
-        "title": "HOK FPS Booster v2",
-        "description": "Extreme FPS",
-        "url": "https://example.com/hok2.zip",
-        "installType": "hok",
-        "key": "101010",
-        "getKeyUrl": "https://shortlink.com/hok2",
-        "howToGetKeyUrl": "https://youtube.com/HOK_KEY",
-        "imageUrl": "https://example.com/img/hok2.png"
-      }
-    ]
-  },
-
-  {
-    "category": "FPS ANTI LAG (Magic Chess Go Go)",
-    "items": [
-      {
-        "id": "magic_fps_1",
-        "title": "Magic Chess FPS Boost v3",
-        "description": "Smooth animations",
-        "url": "https://example.com/magic1.zip",
-        "installType": "magicchess",
-        "key": "121212",
-        "getKeyUrl": "https://shortlink.com/magic1",
-        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://example.com/img/magic1.png"
-      },
-      {
-        "id": "magic_fps_1",
-        "title": "Magic Chess FPS Boost v42",
-        "description": "Smooth animations",
-        "url": "https://example.com/magic1.zip",
-        "installType": "magicchess",
-        "key": "121212",
-        "getKeyUrl": "https://shortlink.com/magic1",
-        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://example.com/img/magic1.png"
-      },
-      {
-        "id": "magic_fps_1",
-        "title": "Magic Chess FPS Boost v12",
-        "description": "Smooth animations",
-        "url": "https://example.com/magic1.zip",
-        "installType": "magicchess",
-        "key": "121212",
-        "getKeyUrl": "https://shortlink.com/magic1",
-        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://example.com/img/magic1.png"
-      },
-      {
-        "id": "magic_fps_2",
-        "title": "Magic Chess FPS Boost v2",
-        "description": "Max performance",
-        "url": "https://example.com/magic2.zip",
-        "installType": "magicchess",
-        "key": "131313",
-        "getKeyUrl": "https://shortlink.com/magic2",
-        "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://example.com/img/magic2.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/roblox_fps_v2.png"
       }
     ]
   }
