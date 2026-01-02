@@ -4,11 +4,11 @@
     "items": [
       {
         "id": "mlbb_fps1",
-        "title": "FPS ANTI LAG v1112",
+        "title": "FPS ANTI LAG v111",
         "description": "Low-end devices",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "mlbb",
-        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/get-key",
+        "getKeyUrl": "https://bit.ly/4poh2GB",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
       },
