@@ -17,6 +17,7 @@
       {
         "id": "mlbb_fps2",
         "title": "FPS ANTI LAG v22",
+        "titleColor": "#FFA500",
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
@@ -27,6 +28,7 @@
       {
         "id": "mlbb_fps3",
         "title": "FPS ANTI LAG v3",
+        "titleColor": "#FFA500",
         "description": "Balanced performance",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch5.zip",
         "installType": "mlbb",
@@ -37,6 +39,7 @@
       {
         "id": "mlbb_fps4",
         "title": "FPS ANTI LAG v4",
+        "titleColor": "#FFA500",
         "description": "High performance",
         "url": "https://example.com/fps3.zip",
         "installType": "mlbb",
@@ -48,10 +51,12 @@
   },
   {
     "category": "Background UI (Mobile Legends)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "mlbb_bg1",
         "title": "MLBB ORIGINAL BACKGROUND",
+        "titleColor": "#FFA500",
         "description": "Default UI",
         "url": "https://example.com/bg1.zip",
         "installType": "mlbb",
@@ -62,6 +67,7 @@
       {
         "id": "mlbb_bg2",
         "title": "HU TAO INTERFACE",
+        "titleColor": "#FFA500",
         "description": "Anime UI",
         "url": "https://example.com/bg2.zip",
         "installType": "mlbb",
@@ -73,10 +79,12 @@
   },
   {
     "category": "FPS BOOST (Roblox)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "roblox_fps1",
         "title": "Roblox FPS Booster v1",
+        "titleColor": "#FFA500",
         "description": "Extract to Downloads",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip",
         "installType": "roblox",
@@ -87,6 +95,7 @@
       {
         "id": "roblox_fps2",
         "title": "Roblox FPS Booster v223",
+        "titleColor": "#FFA500",
         "description": "Max FPS config",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
         "installType": "roblox",
@@ -98,10 +107,12 @@
   },
   {
     "category": "FPS ANTI LAG (Call of Duty Mobile)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "codm_fps1",
         "title": "CODM FPS Booster v11",
+        "titleColor": "#FFA500",
         "description": "Smooth gameplay",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/New.folder.zip",
         "installType": "codm",
@@ -112,6 +123,7 @@
       {
         "id": "codm_fps2",
         "title": "CODM FPS Booster v2",
+        "titleColor": "#FFA500",
         "description": "Ultra FPS",
         "url": "https://example.com/codm2.zip",
         "installType": "codm",
@@ -123,10 +135,12 @@
   },
   {
     "category": "FPS ANTI LAG (CrossFire Legends)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "crossfire_fps1",
         "title": "CrossFire FPS Boost v1",
+        "titleColor": "#FFA500",
         "description": "Stability preset",
         "url": "https://example.com/cf1.zip",
         "installType": "crossfire",
@@ -137,6 +151,7 @@
       {
         "id": "crossfire_fps2",
         "title": "CrossFire FPS Boost v2",
+        "titleColor": "#FFA500",
         "description": "High FPS mode",
         "url": "https://example.com/cf2.zip",
         "installType": "crossfire",
@@ -148,10 +163,12 @@
   },
   {
     "category": "FPS ANTI LAG (Honor of Kings)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "hok_fps1",
         "title": "HOK FPS Booster v1",
+        "titleColor": "#FFA500",
         "description": "Balanced preset",
         "url": "https://example.com/hok1.zip",
         "installType": "hok",
@@ -162,6 +179,7 @@
       {
         "id": "hok_fps2",
         "title": "HOK FPS Booster v2",
+        "titleColor": "#FFA500",
         "description": "Extreme FPS",
         "url": "https://example.com/hok2.zip",
         "installType": "hok",
@@ -173,10 +191,12 @@
   },
   {
     "category": "FPS ANTI LAG (Magic Chess Go Go)",
+    "color": "#FFD700",
     "items": [
       {
         "id": "magic_fps1",
         "title": "Magic Chess FPS Boost v3",
+        "titleColor": "#FFA500",
         "description": "Smooth animations",
         "url": "https://example.com/magic1.zip",
         "installType": "magicchess",
@@ -187,6 +207,7 @@
       {
         "id": "magic_fps2",
         "title": "Magic Chess FPS Boost v42",
+        "titleColor": "#FFA500",
         "description": "Smooth animations",
         "url": "https://example.com/magic1.zip",
         "installType": "magicchess",
@@ -197,6 +218,7 @@
       {
         "id": "magic_fps3",
         "title": "Magic Chess FPS Boost v12",
+        "titleColor": "#FFA500",
         "description": "Smooth animations",
         "url": "https://example.com/magic1.zip",
         "installType": "magicchess",
@@ -207,6 +229,7 @@
       {
         "id": "magic_fps4",
         "title": "Magic Chess FPS Boost v2",
+        "titleColor": "#FFA500",
         "description": "Max performance",
         "url": "https://example.com/magic2.zip",
         "installType": "magicchess",
