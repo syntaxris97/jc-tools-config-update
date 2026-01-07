@@ -12,7 +12,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_fps_v1.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg"
       },
       {
         "id": "mlbb_drone2",
@@ -23,7 +23,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg"
       },
       {
         "id": "mlbb_drone3",
@@ -34,7 +34,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg"
       },
       {
         "id": "mlbb_drone4",
@@ -45,7 +45,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg"
       },
       {
         "id": "mlbb_drone5",
@@ -56,7 +56,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg"
       },
       {
         "id": "mlbb_drone6",
@@ -67,7 +67,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg"
       },
       {
         "id": "mlbb_drone7",
@@ -78,7 +78,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg"
       },
       {
         "id": "mlbb_drone8",
@@ -89,7 +89,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ui.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg"
       },
       {
         "id": "mlbb_drone9",
@@ -100,7 +100,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v2.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg"
       },
       {
         "id": "mlbb_drone10",
@@ -111,7 +111,7 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fps_v3.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg"
       }
     ]
   },
@@ -121,7 +121,7 @@
     "items": [
       {
         "id": "mlbb_bg1",
-        "title": "MLBB ORIGINAL BACKGROUND",
+        "title": "MLBB ORIGINAL BACKGROUND1",
         "titleColor": "#FFA500",
         "description": "Default UI",
         "url": "https://example.com/bg1.zip",
