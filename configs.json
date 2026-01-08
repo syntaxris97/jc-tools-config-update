@@ -17,7 +17,8 @@
         "requiredVersionExact": "2.1.42.11468",
         "updateUrl": "market://details?id=com.mobile.legends",
         "versionDialogTitle": "Version Mismatch Detected",
-        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s."
+        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s.",
+        "enableVersionCheck": true
       }
     ]
   },
