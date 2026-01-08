@@ -12,7 +12,12 @@
         "installType": "roblox",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "market://details?id=com.mobile.legends",
+        "versionDialogTitle": "Version Mismatch Detected",
+        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s."
       }
     ]
   },
@@ -30,6 +35,11 @@
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg"
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "market://details?id=com.mobile.legends",
+        "versionDialogTitle": "Version Mismatch Detected",
+        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s."
       },
       {
         "id": "mlbb_drone2",
