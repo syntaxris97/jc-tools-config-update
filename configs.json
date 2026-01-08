@@ -17,7 +17,8 @@
         "requiredVersionExact": "2.1.42.11468",
         "updateUrl": "https://www.mediafire.com/file/qn7p7eelbygglnu/Mobile_Legends__Bang_Bang_2.1.42.11468.apks/file",
         "versionDialogTitle": "Version Mismatch Detected",
-        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s."
+        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s.",
+        "enableVersionCheck": false
       },
       {
         "id": "mlbb_drone2",
