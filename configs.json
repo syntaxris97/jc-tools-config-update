@@ -149,7 +149,7 @@
     "color": "#FFD700",
     "items": [
       {
-        "id": "mlbb_bg1",
+        "id": "mlbb_skin1",
         "title": "MLBB ORIGINAL BACKGROUND1",
         "titleColor": "#FFA500",
         "description": "Default UI",
@@ -160,7 +160,18 @@
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
       },
       {
-        "id": "mlbb_bg2",
+        "id": "mlbb_skin2",
+        "title": "HU TAO INTERFACE",
+        "titleColor": "#FFA500",
+        "description": "Anime UI",
+        "url": "https://example.com/bg2.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
+      },
+      {
+        "id": "mlbb_skin3",
         "title": "HU TAO INTERFACE",
         "titleColor": "#FFA500",
         "description": "Anime UI",
