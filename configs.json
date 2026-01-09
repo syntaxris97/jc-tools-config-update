@@ -15,7 +15,7 @@
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.42.11468",
-        "updateUrl": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Mobile.Legends_.Bang.Bang_2.1.42.11468.apks",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
         "versionDialogTitle": "Version Mismatch Detected",
         "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in (%s or older/newer).\n\nPlease ensure you are running version %s.",
         "enableVersionCheck": true
