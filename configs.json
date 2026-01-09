@@ -16,8 +16,8 @@
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.42.11468",
         "updateUrl": "https://linktr.ee/otj7nvptci7",
-        "versionDialogTitle": "Older ML Version Detected",
-        "versionDialogMessage": "The installed version of Mobile Legends is not supported.\n\nThis may cause an error if you are in ($installed or older/newer).\n\nPlease ensure you are running version %s.",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
         "enableVersionCheck": true
       },
       {
@@ -29,7 +29,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone3",
@@ -40,7 +46,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone4",
@@ -51,7 +63,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone5",
@@ -62,7 +80,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone6",
@@ -73,7 +97,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone7",
@@ -84,7 +114,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone8",
@@ -95,7 +131,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone9",
@@ -106,7 +148,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_drone10",
@@ -117,7 +165,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the game to version  (%s) Click Update MLBB now",
+        "enableVersionCheck": true
       }
     ]
   },
