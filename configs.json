@@ -283,7 +283,7 @@
         "installType": "codm",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/CODM_KEY",
-        "imageUrl": "https://example.com/img/codm1.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg"
       },
       {
         "id": "codm_fps2",
@@ -294,7 +294,7 @@
         "installType": "codm",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/CODM_KEY",
-        "imageUrl": "https://example.com/img/codm2.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm2.jpg"
       }
     ]
   },
