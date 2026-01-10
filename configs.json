@@ -205,14 +205,14 @@
     ]
   },
   {
-    "category": "FPS BOOST (Roblox)",
+    "category": "Executors (Roblox)",
     "color": "#FFD700",
     "items": [
       {
-        "id": "roblox_fps1",
+        "id": "roblox_exe1",
         "title": "FluxusZ Executor",
         "titleColor": "#FFA500",
-        "description": "Updated: 1/9/2026",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.fluxusZ.zip",
         "installType": "roblox",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
@@ -220,10 +220,49 @@
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fluxusz.jpg"
       },
       {
-        "id": "roblox_fps2",
+        "id": "roblox_exe2",
         "title": "Ronix Executor",
         "titleColor": "#FFA500",
-        "description": "Updated: 1/9/2026",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.Ronix.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtube.com/ROBLOX_KEY",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Scripts (Roblox)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "roblox_script1",
+        "title": "The Forge Script – Carsonn Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script1.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtube.com/YOUR_ROBLOX_KEY_TUTORIAL",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/The Forge Script – Carsonn Hub1.png"
+      },
+      {
+        "id": "roblox_script2",
+        "title": "Ronix Executor",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.Ronix.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtube.com/ROBLOX_KEY",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg"
+      },
+      {
+        "id": "roblox_script3",
+        "title": "Ronix Executor",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.Ronix.zip",
         "installType": "roblox",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
@@ -289,30 +328,30 @@
     ]
   },
   {
-    "category": "MOD MENU (Honor of Kings)",
+    "category": "MOD MENU (Safe)(Honor of Kings)",
     "color": "#FFD700",
     "items": [
       {
         "id": "hok_fps1",
-        "title": "HOK FPS Booster v1",
+        "title": "HOK MOD MENU",
         "titleColor": "#FFA500",
-        "description": "Balanced preset",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK1.zip",
         "installType": "hok",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/HOK_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg"
       },
       {
         "id": "hok_fps2",
-        "title": "HOK FPS Booster v2",
+        "title": "HOK MOD MENU v2",
         "titleColor": "#FFA500",
-        "description": "Extreme FPS",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK2.zip",
         "installType": "hok",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/HOK_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg"
       }
     ]
   },
@@ -322,47 +361,47 @@
     "items": [
       {
         "id": "magic_fps1",
-        "title": "Magic Chess FPS Boost v3",
+        "title": "Magic Chess Script Map v1",
         "titleColor": "#FFA500",
-        "description": "Smooth animations",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc1.jpg"
       },
       {
         "id": "magic_fps2",
-        "title": "Magic Chess FPS Boost v42",
+        "title": "Magic Chess Script Map v2",
         "titleColor": "#FFA500",
-        "description": "Smooth animations",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc2.jpg"
       },
       {
         "id": "magic_fps3",
-        "title": "Magic Chess FPS Boost v12",
+        "title": "Magic Chess Script Map v3",
         "titleColor": "#FFA500",
-        "description": "Smooth animations",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc3.jpg"
       },
       {
         "id": "magic_fps4",
-        "title": "Magic Chess FPS Boost v2",
+        "title": "Magic Chess Script Map v4",
         "titleColor": "#FFA500",
-        "description": "Max performance",
+        "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/MAGIC_KEY",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc4.jpg"
       }
     ]
   }
