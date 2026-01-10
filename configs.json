@@ -95,8 +95,8 @@
     "color": "#FFD700",
     "items": [
       {
-        "id": "mlbb_drone+dmg1",
-        "title": "Drone View 1x + Damage Up (Smooth)",
+        "id": "mlbb_dronedmg1",
+        "title": "Drone View 1x1 + Damage Up (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage1.zip",
@@ -112,7 +112,7 @@
         "enableVersionCheck": true
       },
       {
-        "id": "mlbb_drone+dmg2",
+        "id": "mlbb_dronedmg2",
         "title": "Drone View 2x + Damage Up (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
@@ -129,7 +129,7 @@
         "enableVersionCheck": true
       },
       {
-        "id": "mlbb_drone+dmg3",
+        "id": "mlbb_dronedmg3",
         "title": "Drone View 3x + Damage Up (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
@@ -146,7 +146,7 @@
         "enableVersionCheck": true
       },
       {
-        "id": "mlbb_drone+dmg4",
+        "id": "mlbb_dronedmg4",
         "title": "Drone View 4x + Damage Up (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
@@ -163,7 +163,7 @@
         "enableVersionCheck": true
       },
       {
-        "id": "mlbb_drone+dmg5",
+        "id": "mlbb_dronedmg5",
         "title": "Drone View 5x + Damage Up (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
