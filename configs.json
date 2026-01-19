@@ -1,15 +1,18 @@
 [
   {
-    "category": "Drone View 1-10 (Safe) (MLBB)",
+    "category": "Drone View 1-10x",
+    "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View 1x (Smooth)",
+        "title": "Drone View 1x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone1.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
@@ -22,11 +25,12 @@
       },
       {
         "id": "mlbb_drone2",
-        "title": "Drone View 2x (Smooth)",
+        "title": "Drone View 2x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone2.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
@@ -39,11 +43,12 @@
       },
       {
         "id": "mlbb_drone3",
-        "title": "Drone View 3x (Smooth)",
+        "title": "Drone View 3x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone3.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
@@ -56,11 +61,12 @@
       },
       {
         "id": "mlbb_drone4",
-        "title": "Drone View 4x (Smooth)",
+        "title": "Drone View 4x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone4.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
@@ -73,11 +79,12 @@
       },
       {
         "id": "mlbb_drone5",
-        "title": "Drone View 5x (Smooth)",
+        "title": "Drone View 5x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone5.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
@@ -90,11 +97,12 @@
       },
       {
         "id": "mlbb_drone6",
-        "title": "Drone View 6x (Smooth)",
+        "title": "Drone View 6x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone6.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg",
@@ -107,11 +115,12 @@
       },
       {
         "id": "mlbb_drone7",
-        "title": "Drone View 7x (Smooth)",
+        "title": "Drone View 7x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone7.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg",
@@ -124,11 +133,12 @@
       },
       {
         "id": "mlbb_drone8",
-        "title": "Drone View 8x (Smooth)",
+        "title": "Drone View 8x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone8.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg",
@@ -141,11 +151,12 @@
       },
       {
         "id": "mlbb_drone9",
-        "title": "Drone View 9x (Smooth)",
+        "title": "Drone View 9x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone9.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg",
@@ -158,11 +169,12 @@
       },
       {
         "id": "mlbb_drone10",
-        "title": "Drone View 10x (Smooth)",
+        "title": "Drone View 10x",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone10.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg",
@@ -176,17 +188,22 @@
     ]
   },
   {
-    "category": "Drone View + Damage Up (Safe) (MLBB)",
+    "category": "Drone View 1-10 + Extra Damage (VIP)",
+    "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
+    "vipOnly": true,
+    "adblockCheck": false,
     "items": [
       {
         "id": "mlbb_dronedmg1",
-        "title": "Drone View 1x + Extra Damage (Smooth)",
+        "title": "Drone View 1x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage1.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -198,12 +215,14 @@
       },
       {
         "id": "mlbb_dronedmg2",
-        "title": "Drone View 2x + Extra Damage (Smooth)",
+        "title": "Drone View 2x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage2.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -215,12 +234,14 @@
       },
       {
         "id": "mlbb_dronedmg3",
-        "title": "Drone View 3x + Extra Damage (Smooth)",
+        "title": "Drone View 3x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage3.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -232,12 +253,14 @@
       },
       {
         "id": "mlbb_dronedmg4",
-        "title": "Drone View 4x + Extra Damage (Smooth)",
+        "title": "Drone View 4x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage4.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -249,12 +272,14 @@
       },
       {
         "id": "mlbb_dronedmg5",
-        "title": "Drone View 5x + Extra Damage (Smooth)",
+        "title": "Drone View 5x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage5.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -266,12 +291,14 @@
       },
       {
         "id": "mlbb_dronedmg6",
-        "title": "Drone View 6x + Extra Damage (Smooth)",
+        "title": "Drone View 6x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage6.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -283,12 +310,14 @@
       },
       {
         "id": "mlbb_dronedmg7",
-        "title": "Drone View 7x + Extra Damage (Smooth)",
+        "title": "Drone View 7x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage7.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -300,12 +329,14 @@
       },
       {
         "id": "mlbb_dronedmg8",
-        "title": "Drone View 8x + Extra Damage (Smooth)",
+        "title": "Drone View 8x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage8.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -317,12 +348,14 @@
       },
       {
         "id": "mlbb_dronedmg9",
-        "title": "Drone View 9x + Extra Damage (Smooth)",
+        "title": "Drone View 9x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage9.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -334,12 +367,14 @@
       },
       {
         "id": "mlbb_dronedmg10",
-        "title": "Drone View 10x + Extra Damage (Smooth)",
+        "title": "Drone View 10x + Extra Damage (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dronedamage10.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg",
         "requiredPackage": "com.mobile.legends",
@@ -352,31 +387,38 @@
     ]
   },
   {
-    "category": "Map Hack (Safe) (MLBB)",
+    "category": "Map Hack",
+    "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
+    "vipOnly": true,
+    "adblockCheck": false,
     "items": [
       {
         "id": "maphack1",
-        "title": "Map Hack",
+        "title": "Map Hack (VIP)",
         "titleColor": "#FFA500",
-        "description": "Updated: 1/10/2026",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/",
+        "description": "Updated: 1/19/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mh1.zip",
         "installType": "mlbb",
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "buyKeyUrl": "https://t.me/jctoolz0",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mh1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.42.11468",
         "updateUrl": "https://linktr.ee/otj7nvptci7",
         "versionDialogTitle": "Older MLBB Version Detected",
-        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
         "enableVersionCheck": true
       }
     ]
   },
   {
     "category": "Executors (Roblox)",
+    "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "roblox_exe1",
@@ -385,6 +427,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.fluxusZ.zip",
         "installType": "roblox",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fluxusz.jpg"
@@ -396,6 +439,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.Ronix.zip",
         "installType": "roblox",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg"
@@ -404,7 +448,9 @@
   },
   {
     "category": "Scripts (Roblox)",
+    "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "roblox_script1",
@@ -413,6 +459,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script1.zip",
         "installType": "roblox",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/The Forge Script – Carsonn Hub1.png"
@@ -424,6 +471,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script2.zip",
         "installType": "roblox",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/Fish It Script – Trash Hub1.png"
@@ -435,6 +483,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script3.zip",
         "installType": "roblox",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/BLOX FRUITS – REDz Hub1.png"
@@ -442,8 +491,10 @@
     ]
   },
   {
-    "category": "MOD MENU (Call of Duty Mobile)",
+    "category": "MOD MENU (CODM)",
+    "subtitle": "(CODM)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "codm_fps1",
@@ -452,9 +503,12 @@
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM1.zip",
         "installType": "codm",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "CODM MOD MENU V1 is under maintenance. Please check again later."
       },
       {
         "id": "codm_fps2",
@@ -463,15 +517,20 @@
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM2.zip",
         "installType": "codm",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "CODM MOD MENU V2 is under maintenance. Please check again later."
       }
     ]
   },
   {
     "category": "MOD MENU (CrossFire Legends)",
+    "subtitle": "(CFL)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "crossfire_fps1",
@@ -480,9 +539,12 @@
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Crossfire.Legends1.zip",
         "installType": "crossfire",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "CROSSFIRE MOD V1 is under maintenance. Please check again later."
       },
       {
         "id": "crossfire_fps2",
@@ -491,26 +553,34 @@
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Crossfire.Legends2.zip",
         "installType": "crossfire",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "CROSSFIRE MOD V2 is under maintenance. Please check again later."
       }
     ]
   },
   {
-    "category": "MOD MENU (Safe)(Honor of Kings)",
+    "category": "MOD MENU (Honor of Kings)",
+    "subtitle": "(HOK)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "hok_fps1",
-        "title": "HOK MOD MENU",
+        "title": "HOK MOD MENU V1",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK1.zip",
         "installType": "hok",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later."
       },
       {
         "id": "hok_fps2",
@@ -519,15 +589,20 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK2.zip",
         "installType": "hok",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later."
       }
     ]
   },
   {
-    "category": "FPS ANTI LAG (Magic Chess Go Go)",
+    "category": "Magic Chess Map Script",
+    "subtitle": "(MC)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "magic_fps1",
@@ -536,9 +611,12 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "Magic Chess Script Map v1 is under maintenance. Please check again later."
       },
       {
         "id": "magic_fps2",
@@ -547,9 +625,12 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "Magic Chess Script Map v2 is under maintenance. Please check again later."
       },
       {
         "id": "magic_fps3",
@@ -558,9 +639,12 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc3.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc3.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "Magic Chess Script Map v3 is under maintenance. Please check again later."
       },
       {
         "id": "magic_fps4",
@@ -569,9 +653,12 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
         "installType": "magicchess",
+        "installButtonText": "Download",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc4.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc4.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "Magic Chess Script Map v4 is under maintenance. Please check again later."
       }
     ]
   }
