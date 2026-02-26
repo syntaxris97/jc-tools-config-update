@@ -7,8 +7,7 @@
     "adblockCheck": true,
     "tabs": [
       { "key": "all", "label": "All" },
-      { "key": "horizontal", "label": "Drone Horizontal" },
-      { "key": "vertical", "label": "Drone Vertical" },
+      { "key": "horizontal", "label": "Drone Views 1-10x" },
       { "key": "3dview", "label": "3D View" }
     ],
     "items": [
